@@ -1,4 +1,4 @@
 eider alejandro peña dagua
 edad 23
 Con POO, aspiro aprender lo necesario para
-comprender mejor la programacion y como funciona.
+
